@@ -12,15 +12,15 @@ This is a .NET Core 2.1 console application using NuGet-Packages FileHelpers and
 ## Execution
 The cash flow is calculated based on the locally stored data from the financial system. In this simplified example sales, treasury, payroll and asset accounting are considered. The calculation process can be described as follows:
 
-<img src="images/CashCalcProcess.png">
+<img src="images/CashCalcProcess.png" width="600">
 
 The sales cash flow it calculated based on the following payment schedule corresponding to a hypothetical business model and legal tax framework:
 
-<img src="images/SalesCashflow.png">
+<img src="images/SalesCashflow.PNG" width="600">
 
 The payroll cash flow it calculated on the same principle:
 
-<img src="images/PayrollCashflow.png">
+<img src="images/PayrollCashflow.PNG" width="600">
 
 
 ## License
